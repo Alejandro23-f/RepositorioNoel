@@ -4,5 +4,6 @@ public class hola {
     {
        
 	System.out.println("hola");
+	System.out.println("hola Alejandro Romero");
 }
 }
